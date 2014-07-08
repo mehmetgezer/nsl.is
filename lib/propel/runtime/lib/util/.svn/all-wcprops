@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/102/trunk/nsl.is/lib/propel/runtime/lib/util
+END
+PropelPager.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/102/trunk/nsl.is/lib/propel/runtime/lib/util/PropelPager.php
+END
+PropelColumnTypes.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/102/trunk/nsl.is/lib/propel/runtime/lib/util/PropelColumnTypes.php
+END
+PropelAutoloader.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/102/trunk/nsl.is/lib/propel/runtime/lib/util/PropelAutoloader.php
+END
+PropelConditionalProxy.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/102/trunk/nsl.is/lib/propel/runtime/lib/util/PropelConditionalProxy.php
+END
+BasePeer.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/102/trunk/nsl.is/lib/propel/runtime/lib/util/BasePeer.php
+END
+PropelModelPager.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/102/trunk/nsl.is/lib/propel/runtime/lib/util/PropelModelPager.php
+END
+NodePeer.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/102/trunk/nsl.is/lib/propel/runtime/lib/util/NodePeer.php
+END
+PropelDateTime.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/102/trunk/nsl.is/lib/propel/runtime/lib/util/PropelDateTime.php
+END

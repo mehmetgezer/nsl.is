@@ -1,0 +1,101 @@
+10
+
+dir
+212
+https://get-traffic.googlecode.com/svn/trunk/nsl.is/lib/propel/runtime/lib
+https://get-traffic.googlecode.com/svn
+
+
+
+2012-12-30T12:46:27.005732Z
+102
+arbostanci@gmail.com
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+dac997d9-abd6-e107-4467-af347d3669a8
+
+Propel.php
+file
+
+
+
+
+2013-06-30T17:59:39.174000Z
+d063c57e519ce27c6d85bd878e89e7f7
+2012-12-30T12:46:27.005732Z
+102
+arbostanci@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+33585
+
+adapter
+dir
+
+collection
+dir
+
+config
+dir
+
+connection
+dir
+
+exception
+dir
+
+formatter
+dir
+
+logger
+dir
+
+map
+dir
+
+om
+dir
+
+parser
+dir
+
+query
+dir
+
+util
+dir
+
+validator
+dir
+

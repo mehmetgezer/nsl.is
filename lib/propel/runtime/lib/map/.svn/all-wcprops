@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/102/trunk/nsl.is/lib/propel/runtime/lib/map
+END
+ColumnMap.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/102/trunk/nsl.is/lib/propel/runtime/lib/map/ColumnMap.php
+END
+ValidatorMap.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/102/trunk/nsl.is/lib/propel/runtime/lib/map/ValidatorMap.php
+END
+TableMap.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/102/trunk/nsl.is/lib/propel/runtime/lib/map/TableMap.php
+END
+RelationMap.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/102/trunk/nsl.is/lib/propel/runtime/lib/map/RelationMap.php
+END
+DatabaseMap.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/102/trunk/nsl.is/lib/propel/runtime/lib/map/DatabaseMap.php
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/102/trunk/nsl.is/lib/propel/runtime/lib/collection
+END
+PropelObjectCollection.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/102/trunk/nsl.is/lib/propel/runtime/lib/collection/PropelObjectCollection.php
+END
+PropelCollection.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/102/trunk/nsl.is/lib/propel/runtime/lib/collection/PropelCollection.php
+END
+PropelArrayCollection.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/102/trunk/nsl.is/lib/propel/runtime/lib/collection/PropelArrayCollection.php
+END
+PropelOnDemandIterator.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/102/trunk/nsl.is/lib/propel/runtime/lib/collection/PropelOnDemandIterator.php
+END
+PropelOnDemandCollection.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/102/trunk/nsl.is/lib/propel/runtime/lib/collection/PropelOnDemandCollection.php
+END

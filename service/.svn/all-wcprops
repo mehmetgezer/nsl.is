@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/206/trunk/nsl.is/service
+END
+api.php
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/15/trunk/nsl.is/service/api.php
+END
+LinkApi.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/206/trunk/nsl.is/service/LinkApi.php
+END
+.htaccess
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/102/trunk/nsl.is/service/.htaccess
+END

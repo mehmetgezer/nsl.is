@@ -1,0 +1,19 @@
+#SetOutputFilter DEFLATE
+#ExpiresActive On
+#ExpiresDefault A604800
+#Header append Cache-Control "public"
+#AddDefaultCharset UTF-8
+RewriteEngine On
+#RewriteCond %{REQUEST_FILENAME} !-d
+#RewriteCond %{REQUEST_FILENAME} !-s
+#RewriteRule ^(.*)$ service/api.php?rquest=$1 [QSA,NC,L]
+#
+#RewriteCond %{REQUEST_FILENAME} -d
+#RewriteRule ^(.*)$ service/api.php [QSA,NC,L]
+#
+#RewriteCond %{REQUEST_FILENAME} -s
+#RewriteRule ^(.*)$ service/api.php [QSA,NC,L]
+
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ([a-zA-Z0-9]{5})/? go.php?l=$1 [NC,L]

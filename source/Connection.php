@@ -1,0 +1,64 @@
+<?php
+
+/**
+ * @author Mem0
+ * @copyright 2012
+ */
+
+
+class Connection //create a class for make connection
+{
+
+    var $host="localhost";
+    var $username="memo";
+    var $password="123456";
+    var $database="nsl";
+    var $myconn;
+    var $db;
+
+    public function getDbSource(){
+        $this->db = new PDO("mysql:host=".$this->host.";dbname=".$this->database,$this->username,$this->password);
+        $this->db->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
+        return $this->db;
+    }
+
+    function connectToDatabase() // create a function for connect database
+    {
+
+        $conn= mysql_connect($this->host,$this->username,$this->password);
+
+        if(!$conn)// testing the connection
+        {
+            die ("Cannot connect to the database");
+        }
+
+        else
+        {
+            $this->myconn = $conn;
+
+        }
+
+        return $this->myconn;
+
+    }
+
+    function selectDatabase() // selecting the database.
+    {
+        mysql_select_db($this->database);  //use php inbuild functions for select database
+
+        if(mysql_error()) // if error occured display the error message
+        {
+            echo "Cannot find the database ".$this->database;
+        }
+
+    }
+
+    function closeConnection() // close the connection
+    {
+        mysql_close($this->myconn);
+
+    }
+
+}
+
+?>

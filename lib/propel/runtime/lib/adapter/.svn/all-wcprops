@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/102/trunk/nsl.is/lib/propel/runtime/lib/adapter
+END
+DBNone.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/102/trunk/nsl.is/lib/propel/runtime/lib/adapter/DBNone.php
+END
+DBPostgres.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/102/trunk/nsl.is/lib/propel/runtime/lib/adapter/DBPostgres.php
+END
+DBSQLSRV.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/102/trunk/nsl.is/lib/propel/runtime/lib/adapter/DBSQLSRV.php
+END
+DBMSSQL.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/102/trunk/nsl.is/lib/propel/runtime/lib/adapter/DBMSSQL.php
+END
+DBSQLite.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/102/trunk/nsl.is/lib/propel/runtime/lib/adapter/DBSQLite.php
+END
+DBOracle.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/102/trunk/nsl.is/lib/propel/runtime/lib/adapter/DBOracle.php
+END
+DBAdapter.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/102/trunk/nsl.is/lib/propel/runtime/lib/adapter/DBAdapter.php
+END
+DBMySQL.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/102/trunk/nsl.is/lib/propel/runtime/lib/adapter/DBMySQL.php
+END

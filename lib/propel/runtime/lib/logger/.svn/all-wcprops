@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/102/trunk/nsl.is/lib/propel/runtime/lib/logger
+END
+MojaviLogAdapter.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/102/trunk/nsl.is/lib/propel/runtime/lib/logger/MojaviLogAdapter.php
+END
+BasicLogger.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/102/trunk/nsl.is/lib/propel/runtime/lib/logger/BasicLogger.php
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/196/trunk/nsl.is/source/authorize/types
+END
+Link.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/196/trunk/nsl.is/source/authorize/types/Link.php
+END
+Client.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/194/trunk/nsl.is/source/authorize/types/Client.php
+END
+ErrorOnGetShortUrl.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/196/trunk/nsl.is/source/authorize/types/ErrorOnGetShortUrl.php
+END
+Status.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/193/trunk/nsl.is/source/authorize/types/Status.php
+END
+ErrorOnGetLongUrl.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/196/trunk/nsl.is/source/authorize/types/ErrorOnGetLongUrl.php
+END
+ApiKey.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/191/trunk/nsl.is/source/authorize/types/ApiKey.php
+END

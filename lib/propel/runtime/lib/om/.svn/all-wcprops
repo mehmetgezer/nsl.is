@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/102/trunk/nsl.is/lib/propel/runtime/lib/om
+END
+Persistent.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/102/trunk/nsl.is/lib/propel/runtime/lib/om/Persistent.php
+END
+PreOrderNodeIterator.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/102/trunk/nsl.is/lib/propel/runtime/lib/om/PreOrderNodeIterator.php
+END
+BaseObject.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/102/trunk/nsl.is/lib/propel/runtime/lib/om/BaseObject.php
+END
+NodeObject.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/102/trunk/nsl.is/lib/propel/runtime/lib/om/NodeObject.php
+END
+NestedSetRecursiveIterator.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/102/trunk/nsl.is/lib/propel/runtime/lib/om/NestedSetRecursiveIterator.php
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/102/trunk/nsl.is/lib/propel/runtime/lib/adapter/MSSQL
+END
+MssqlPropelPDO.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/102/trunk/nsl.is/lib/propel/runtime/lib/adapter/MSSQL/MssqlPropelPDO.php
+END
+MssqlDebugPDO.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/102/trunk/nsl.is/lib/propel/runtime/lib/adapter/MSSQL/MssqlDebugPDO.php
+END

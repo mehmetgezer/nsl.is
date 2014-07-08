@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/102/trunk/nsl.is/lib/propel/runtime/lib/validator
+END
+ValidationFailed.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/102/trunk/nsl.is/lib/propel/runtime/lib/validator/ValidationFailed.php
+END
+MaxLengthValidator.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/102/trunk/nsl.is/lib/propel/runtime/lib/validator/MaxLengthValidator.php
+END
+TypeValidator.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/102/trunk/nsl.is/lib/propel/runtime/lib/validator/TypeValidator.php
+END
+MinLengthValidator.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/102/trunk/nsl.is/lib/propel/runtime/lib/validator/MinLengthValidator.php
+END
+MatchValidator.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/102/trunk/nsl.is/lib/propel/runtime/lib/validator/MatchValidator.php
+END
+NotMatchValidator.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/102/trunk/nsl.is/lib/propel/runtime/lib/validator/NotMatchValidator.php
+END
+UniqueValidator.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/102/trunk/nsl.is/lib/propel/runtime/lib/validator/UniqueValidator.php
+END
+RequiredValidator.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/102/trunk/nsl.is/lib/propel/runtime/lib/validator/RequiredValidator.php
+END
+MinValueValidator.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/102/trunk/nsl.is/lib/propel/runtime/lib/validator/MinValueValidator.php
+END
+ValidValuesValidator.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/102/trunk/nsl.is/lib/propel/runtime/lib/validator/ValidValuesValidator.php
+END
+BasicValidator.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/102/trunk/nsl.is/lib/propel/runtime/lib/validator/BasicValidator.php
+END
+MaxValueValidator.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/102/trunk/nsl.is/lib/propel/runtime/lib/validator/MaxValueValidator.php
+END

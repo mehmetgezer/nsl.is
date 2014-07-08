@@ -1,0 +1,1 @@
+<img src="style/images/progress.gif" width="150" height="150" />
